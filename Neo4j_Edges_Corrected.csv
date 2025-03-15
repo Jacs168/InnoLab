@@ -1,0 +1,41 @@
+From,To,Relationship,Weight
+Maybank,Permodalan Nasional Berhad (PNB),Owns,43.0
+Maybank,EPF,Owns,14.5
+Maybank,KWAP,Owns,5.6
+Maybank,Property,ExposedTo,Exposure
+Maybank,Oil & Gas,ExposedTo,Exposure
+Maybank,SMEs,ExposedTo,Exposure
+CIMB,Khazanah Nasional,Owns,23.0
+CIMB,EPF,Owns,13.42
+CIMB,KWAP,Owns,5.83
+CIMB,Real Estate,ExposedTo,Exposure
+CIMB,Construction,ExposedTo,Exposure
+CIMB,Oil & Gas,ExposedTo,Exposure
+CIMB,Manufacturing,ExposedTo,Exposure
+Public Bank,EPF,Owns,10.0
+Public Bank,Hong Leong Group,Owns,20.0
+Public Bank,Residential Property,Owns,Exposure
+Public Bank,Auto Financing,Owns,Exposure
+RHB,EPF,Owns,40.35
+RHB,OSK Holdings,Owns,10.24
+RHB,KWAP,Owns,5.09
+RHB,SMEs,ExposedTo,Exposure
+RHB,Corporate Banking,Owns,Exposure
+RHB,Trade Finance,ExposedTo,Exposure
+RHB,Energy,ExposedTo,Exposure
+AmBank,ANZ Funds Pty Limited,Owns,24.0
+AmBank,EPF,Owns,10.0
+AmBank,Amcorp Group,Owns,10.0
+AmBank,SMEs,ExposedTo,Exposure
+AmBank,Oil & Gas,ExposedTo,Exposure
+AmBank,Property,ExposedTo,Exposure
+AmBank,Retail,ExposedTo,Exposure
+Hong Leong Bank,Hong Leong Financial Group,Owns,64.37
+Hong Leong Bank,Public,Owns,35.63
+Hong Leong Bank,Residential Mortgages,Owns,Exposure
+Hong Leong Bank,SME and Business Banking,Owns,Exposure
+Hong Leong Bank,Transport Vehicles,Owns,Exposure
+Hong Leong Bank,Manufacturing and Trade,Owns,Exposure
+Hong Leong Bank,Top Corporate Borrower A,CustomerExposure,3.2
+Hong Leong Bank,Top Corporate Borrower B,CustomerExposure,2.8
+Hong Leong Bank,Top Corporate Borrower C,CustomerExposure,2.5
