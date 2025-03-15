@@ -1,0 +1,36 @@
+Node,Type
+Maybank,Bank
+CIMB,Bank
+Public Bank,Bank
+RHB,Bank
+AmBank,Bank
+Hong Leong Bank,Bank
+Permodalan Nasional Berhad (PNB),Shareholder
+EPF,Shareholder
+KWAP,Shareholder
+Khazanah Nasional,Shareholder
+Hong Leong Group,Shareholder
+OSK Holdings,Shareholder
+ANZ Funds Pty Limited,Shareholder
+Amcorp Group,Shareholder
+Hong Leong Financial Group,Shareholder
+Public,Shareholder
+Property,Industry
+Oil & Gas,Industry
+SMEs,Industry
+Real Estate,Industry
+Construction,Industry
+Manufacturing,Industry
+Residential Property,Industry
+Auto Financing,Industry
+Corporate Banking,Industry
+Trade Finance,Industry
+Energy,Industry
+Retail,Industry
+Residential Mortgages,Industry
+SME and Business Banking,Industry
+Transport Vehicles,Industry
+Manufacturing and Trade,Industry
+Top Corporate Borrower A,Customer
+Top Corporate Borrower B,Customer
+Top Corporate Borrower C,Customer
